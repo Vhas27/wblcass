@@ -1,3 +1,6 @@
+#!/usr/Anaconda3/bin/python3
+# ep_2run.py by Vaclav Hasik
+
 from sys import platform
 import os
 import timeit
